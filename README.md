@@ -2,7 +2,8 @@
 ## Semester Project: Deliverable 1
 ### Flora Farms - Rose Greenhouse Monitoring System
 
-**Group Members:** 
+**Group Members**
+
 150460 - Makau Nathan Maganga
 145768 - Ogato Deborah Kerubo
 166326 - Muriithi Alvin

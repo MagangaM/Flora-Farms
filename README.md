@@ -206,14 +206,17 @@ To step down from the 12V battery to required voltages:
 
 | Team Member | Responsibilities |
 |-------------|------------------|
-| [Member 1] | Research on rose environmental requirements, temperature and humidity monitoring |
-| [Member 2] | Component datasheet collection, MQ-5 gas sensor research |
-| [Member 3] | Schematic diagram design (Architecture A and B), power calculations |
-| [Member 4] | Schematic diagram design (Architecture C), documentation formatting |
-| [All Members] | Group discussions, design reviews, final document review |
+| Maganga Makau | Research on rose environmental requirements |
+| Leon Bundi | Component datasheet collection, MQ-5 gas sensor research |
+| Deborah Ogato | Schematic diagram design (Architecture A ) |
+| Alex Ngigi | Schematic diagram design (Architecture B) |
+| Joseph Kamau | Schematic diagram design (Architecture C) |
+| Timothy Muigai | Temperature and humidity monitoring, Document formatting |
+| Murithi Alvin | Power calculations, Document formatting |
+| All Members | Group discussions, design reviews, final document review |
 
 ### Group Photo
-![Group Photo](group_photo.jpg)
+![Group Photo](Group Photo.jpg)
 
 
 ---
@@ -256,6 +259,6 @@ The next steps for our project will involve prototyping the chosen architecture,
 
 ---
 
-**Document Prepared By:** 150460 - Makau Nathan Maganga  
-**Reviewed By:** 145768 - Ogato Deborah Kerubo, 166326 - Muriithi Alvin, 169648 - Kamau Joseph Manene, 162437 - Ngigi Alex, 150320 - Timothy Muigai, 150767 - Leon Bundi 
+**Document Prepared By:**   166326 - Muriithi Alvin , 150320 - Timothy Muigai
+**Reviewed By:** 145768 - Ogato Deborah Kerubo, 169648 - Kamau Joseph Manene, 162437 - Ngigi Alex, 150767 - Leon Bundi, 150460 - Makau Nathan Maganga 
 **Submission Date:** Tuesday, 9 June 2026

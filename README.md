@@ -202,20 +202,6 @@ To step down from the 12V battery to required voltages:
 
 ## 6. Team Collaboration Evidence
 
-### Group Meeting Minutes
-
-**Meeting 1:** [Date]  
-**Attendees:** [List all members]  
-**Topics Discussed:** Initial research on rose growing requirements, component selection, and task distribution.
-
-**Meeting 2:** [Date]  
-**Attendees:** [List all members]  
-**Topics Discussed:** Review of datasheets, component compatibility, and schematic diagram design discussions.
-
-**Meeting 3:** [Date]  
-**Attendees:** [List all members]  
-**Topics Discussed:** Final review of all three architectures, documentation compilation, and submission preparation.
-
 ### Task Distribution
 
 | Team Member | Responsibilities |

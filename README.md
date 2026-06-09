@@ -260,5 +260,7 @@ The next steps for our project will involve prototyping the chosen architecture,
 ---
 
 **Document Prepared By:**   166326 - Muriithi Alvin , 150320 - Timothy Muigai
+
 **Reviewed By:** 145768 - Ogato Deborah Kerubo, 169648 - Kamau Joseph Manene, 162437 - Ngigi Alex, 150767 - Leon Bundi, 150460 - Makau Nathan Maganga 
+
 **Submission Date:** Tuesday, 9 June 2026

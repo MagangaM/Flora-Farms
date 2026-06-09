@@ -216,7 +216,7 @@ To step down from the 12V battery to required voltages:
 | All Members | Group discussions, design reviews, final document review |
 
 ### Group Photo
-![Group Photo](Group Photo.jpg)
+![Group Photo](Group Photo.png)
 
 
 ---
